@@ -1,0 +1,14 @@
+/home/faheem/Documents/BRIDGE_LABZ/contacts/bin/Debug/net8.0/contacts
+/home/faheem/Documents/BRIDGE_LABZ/contacts/bin/Debug/net8.0/contacts.deps.json
+/home/faheem/Documents/BRIDGE_LABZ/contacts/bin/Debug/net8.0/contacts.runtimeconfig.json
+/home/faheem/Documents/BRIDGE_LABZ/contacts/bin/Debug/net8.0/contacts.dll
+/home/faheem/Documents/BRIDGE_LABZ/contacts/bin/Debug/net8.0/contacts.pdb
+/home/faheem/Documents/BRIDGE_LABZ/contacts/obj/Debug/net8.0/contacts.GeneratedMSBuildEditorConfig.editorconfig
+/home/faheem/Documents/BRIDGE_LABZ/contacts/obj/Debug/net8.0/contacts.AssemblyInfoInputs.cache
+/home/faheem/Documents/BRIDGE_LABZ/contacts/obj/Debug/net8.0/contacts.AssemblyInfo.cs
+/home/faheem/Documents/BRIDGE_LABZ/contacts/obj/Debug/net8.0/contacts.csproj.CoreCompileInputs.cache
+/home/faheem/Documents/BRIDGE_LABZ/contacts/obj/Debug/net8.0/contacts.dll
+/home/faheem/Documents/BRIDGE_LABZ/contacts/obj/Debug/net8.0/refint/contacts.dll
+/home/faheem/Documents/BRIDGE_LABZ/contacts/obj/Debug/net8.0/contacts.pdb
+/home/faheem/Documents/BRIDGE_LABZ/contacts/obj/Debug/net8.0/contacts.genruntimeconfig.cache
+/home/faheem/Documents/BRIDGE_LABZ/contacts/obj/Debug/net8.0/ref/contacts.dll
